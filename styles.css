@@ -129,7 +129,7 @@ dl, ol, main ul{
 	/* limit the width of these lists to 55 characters */
 	max-width: 55ch;
 	margin: 1rem auto;
-	max-width: 55?;
+	max-width: 55ch;
 }
 
 dt{
